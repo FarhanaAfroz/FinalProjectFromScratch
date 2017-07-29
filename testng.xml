@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testNG Framework">
+
+  <!-- ================== CHROME TEST ===============  -->
+  <test name="chome test">
+  <parameter name="Browser" value="Chrome"></parameter>
+   <classes>
+      <class name="testcases.TC1"/>
+   </classes>
+  </test> <!-- Test -->
+  
+  <!-- ==================FIREFOX TEST ===============  -->
+  <test name="fireFox test">
+  <parameter name="Browser" value="firefox"></parameter>
+  
+    <classes>
+     <class name="testcases.TC1"/> 
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->
