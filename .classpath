@@ -41,5 +41,6 @@
 	<classpathentry kind="lib" path="C:/Users/Farhana/workspace/FinalProjectFromScratch/jar/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Farhana/workspace/FinalProjectFromScratch/jar/saxon-8.7.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Farhana/workspace/FinalProjectFromScratch/jar/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Farhana/workspace/FinalProjectFromScratch/jar/javax.mail-1.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

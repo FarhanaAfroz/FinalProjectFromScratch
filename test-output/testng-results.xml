@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="75628" started-at="2017-07-28T13:44:26Z" finished-at="2017-07-28T13:45:41Z">
+  <suite name="Default suite" duration-ms="121597" started-at="2017-08-07T14:52:26Z" finished-at="2017-08-07T14:54:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="75628" started-at="2017-07-28T13:44:26Z" finished-at="2017-07-28T13:45:41Z">
+    <test name="Default test" duration-ms="121597" started-at="2017-08-07T14:52:26Z" finished-at="2017-08-07T14:54:28Z">
       <class name="testcases.TC1">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC1@56235b8e]" name="beforeSuite" is-config="true" duration-ms="49" started-at="2017-07-28T09:44:26Z" finished-at="2017-07-28T09:44:26Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC1@6d7b4f4c]" name="beforeSuite" is-config="true" duration-ms="73" started-at="2017-08-07T10:52:26Z" finished-at="2017-08-07T10:52:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC1@56235b8e]" name="beforeTest" is-config="true" duration-ms="31013" started-at="2017-07-28T09:44:26Z" finished-at="2017-07-28T09:44:57Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC1@6d7b4f4c]" name="beforeTest" is-config="true" duration-ms="73280" started-at="2017-08-07T10:52:26Z" finished-at="2017-08-07T10:53:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="FlightInfoTC()[pri:0, instance:testcases.TC1@56235b8e]" name="FlightInfoTC" duration-ms="44552" started-at="2017-07-28T09:44:57Z" finished-at="2017-07-28T09:45:41Z">
+        <test-method status="PASS" signature="FlightInfoTC()[pri:0, instance:testcases.TC1@6d7b4f4c]" name="FlightInfoTC" duration-ms="48201" started-at="2017-08-07T10:53:40Z" finished-at="2017-08-07T10:54:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FlightInfoTC -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC1@56235b8e]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-07-28T09:45:41Z" finished-at="2017-07-28T09:45:41Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC1@6d7b4f4c]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-08-07T10:54:28Z" finished-at="2017-08-07T10:54:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC1@56235b8e]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-07-28T09:45:41Z" finished-at="2017-07-28T09:45:41Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC1@6d7b4f4c]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-08-07T10:54:30Z" finished-at="2017-08-07T10:54:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
